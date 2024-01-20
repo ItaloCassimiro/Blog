@@ -1,0 +1,1 @@
+<button type="<?php echo e($type); ?>" class="btn <?php echo e($type == 'submit' ? 'btn-primary': ''); ?>"><?php echo e($slot); ?></button><?php /**PATH C:\Laravel\blog\resources\views/components/form/button.blade.php ENDPATH**/ ?>
